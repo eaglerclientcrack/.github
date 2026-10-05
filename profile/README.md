@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Remember guys!!
+DRM doesn't work on eagler clients!
+Submit requests to codexlover@proton.me
+Or as an issue / Pull request. 
+You must provide an html or link to an html though.
 <!--
 
 **Here are some ideas to get you started:**
